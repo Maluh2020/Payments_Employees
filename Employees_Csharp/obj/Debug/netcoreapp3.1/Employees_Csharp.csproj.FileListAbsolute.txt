@@ -1,0 +1,13 @@
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\bin\Debug\netcoreapp3.1\Employees_Csharp.exe
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\bin\Debug\netcoreapp3.1\Employees_Csharp.deps.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\bin\Debug\netcoreapp3.1\Employees_Csharp.runtimeconfig.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\bin\Debug\netcoreapp3.1\Employees_Csharp.runtimeconfig.dev.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\bin\Debug\netcoreapp3.1\Employees_Csharp.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\bin\Debug\netcoreapp3.1\Employees_Csharp.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\obj\Debug\netcoreapp3.1\Employees_Csharp.csprojAssemblyReference.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\obj\Debug\netcoreapp3.1\Employees_Csharp.AssemblyInfoInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\obj\Debug\netcoreapp3.1\Employees_Csharp.AssemblyInfo.cs
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\obj\Debug\netcoreapp3.1\Employees_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\obj\Debug\netcoreapp3.1\Employees_Csharp.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\obj\Debug\netcoreapp3.1\Employees_Csharp.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Employees_Csharp\Employees_Csharp\obj\Debug\netcoreapp3.1\Employees_Csharp.genruntimeconfig.cache
